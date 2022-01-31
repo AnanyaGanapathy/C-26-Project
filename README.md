@@ -1,3 +1,1 @@
-# C-26-Project
-
-https://ananyaganapathy.github.io/C-26-Project/
+# project-C26-template
